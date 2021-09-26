@@ -9,7 +9,7 @@ loadscreen_manual_shutdown 'yes'
 client_script 'client.lua'
 
 files {
-    'index.php',
+    'index.html',
     'music/music.ogg',
     'style.css',
     'background.png',
